@@ -1,3 +1,17 @@
 def draw_tree():
-    print("tree not found")
+    print("       ## #### ####   ")
+    print("    ### \/#|### |/#### " )                    
+    print("   ##\/#/ \||/##/_/##/_# ")                          
+    print("  ###  \/###|/ \/ # ###")                        
+    print(" ##_\_#\_\## | #/###_/_#### ")                    
+    print("## #### # \ #| /  #### ##/## ")                   
+    print("__#_--###`  |{,###---###-~")                       
+    print("         \ }{                ")                              
+    print("          }}{                ")                                
+    print("          }}{                ")                                 
+    print("        ejm  {{}             ")                             
+    print("                             ")                            
+    print("     , -=-~{ .-^- _")                                  
+    print("           {)                ")                                
+
     return
