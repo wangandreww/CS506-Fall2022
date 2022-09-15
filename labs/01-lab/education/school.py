@@ -1,3 +1,9 @@
-def draw_school():
-    print("school not found")
-    return
+def school():
+    print("    \_/")
+    print(" --(_)--  .")
+    print("     / \     /_\ ")
+    print("             |Q|")
+    print("   .------' '------.                             __")
+    print("  /__[SCHOOL]__\                          (()))")
+    print("   |     [] .-.-. []     |                           (((())")
+    print("...|____|_|_|____|............................)(...")
