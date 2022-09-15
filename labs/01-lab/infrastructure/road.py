@@ -1,3 +1,17 @@
 def draw_road():
-    print("road not found")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
+    print("| i |")
     return
